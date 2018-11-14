@@ -1,0 +1,17 @@
+commit a54991f06936290465586ab6d2191e9e847309b3
+Author: Pedro Pasquin <ppasquindeveloper@gmail.com>
+Date:   Wed Nov 14 06:44:36 2018 +0100
+
+    Iniciando bootstrap
+
+commit f0bf14091d571850f30dbfd4216a71b9a68ea5ac
+Author: Pedro Pasquin <ppasquindeveloper@gmail.com>
+Date:   Thu Oct 25 14:37:40 2018 +0200
+
+    ahora el index.html tiene codigo html
+
+commit 54621e59e14ba743af3046604c484a4fc51dca99
+Author: Pedro Pasquin <ppasquindeveloper@gmail.com>
+Date:   Thu Oct 25 14:25:10 2018 +0200
+
+    mi primer commit
